@@ -1,4 +1,4 @@
 # pzzya static files
 ```bash
-# https://cdn.jsdelivr.net/gh/pzzya/README.md 
+# https://cdn.jsdelivr.net/gh/pzzya/static/README.md 
 ```
